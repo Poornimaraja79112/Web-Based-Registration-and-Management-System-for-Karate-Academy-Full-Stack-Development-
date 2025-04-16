@@ -1,0 +1,30 @@
+# Node modules (in case you add JS packages in future)
+node_modules/
+
+# Composer dependencies (if you use PHP Composer later)
+vendor/
+
+# VS Code settings
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# XAMPP-related temp/cache directories (if any)
+xampp/
+htdocs/tmp/
+*.log
+*.cache
+*.tmp
+
+# Environment files (to store DB credentials securely if used)
+.env
+
+# Backup and swap files
+*~
+*.bak
+*.swp
+
+# PHPStorm or JetBrains IDEs
+.idea/
